@@ -28,3 +28,8 @@ img {
     -webkit-text-stroke-color: white;
 }
 
+#image {
+    padding: 25px;
+    text-align: center;
+}
+
