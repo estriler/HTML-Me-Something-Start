@@ -1,1 +1,30 @@
 /* Write your CSS here! */
+body {
+    background-image: url("/images/Strawberry_Candy_Tile_Flooring.png");
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 25px;
+}
+
+h1, h2, h3 {
+    text-align: center;
+}
+
+img {
+    align-content: center;
+}
+
+@font-face {
+    font-family: "Candyshop";
+    src: url("/fonts/Candyshop.ttf");
+} 
+
+#main_header {
+    font-size: 100px;
+    text-align: center;
+    font-family: Candyshop;
+    color: deepskyblue;
+    -webkit-text-stroke-width: 3px;
+    -webkit-text-stroke-color: white;
+}
+
